@@ -66,11 +66,6 @@ A pearson correlation of song attributes displayed on a heatmap is shown below.
 
 <img width="602" alt="Screen Shot 2020-05-24 at 8 48 32 PM" src="https://user-images.githubusercontent.com/31297724/83558569-3874d880-a4e1-11ea-8ff0-b5bc3d5936ca.png">
 
-### Workflow Pipeline 
-
-This project followed the steps of the knowledge discovery pipeline. 
-
-<img width="700" alt="Screen Shot 2020-06-02 at 2 55 07 PM" src="https://user-images.githubusercontent.com/31297724/83558492-1da26400-a4e1-11ea-866f-5b0c59c1d33d.png">
 
 ### Models 
 
